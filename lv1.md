@@ -1,12 +1,13 @@
 # lv 1. string
 
-## rule
+**Solution**
 
+information we know  
 K -> M  
 O -> Q  
 E -> G  
 
-K -> L -> M  needed 2 steps  
+K -> L -> M needed 2 steps  
 O -> P -> Q needed 2 steps  
 E -> F -> G needed 2 steps  
 
