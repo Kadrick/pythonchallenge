@@ -10,3 +10,4 @@ Solutions about [pythonchallenge.com](http://www.pythonchallenge.com/)
 |2|counting|2021-09-27
 |3|regular expression|2021-09-28|
 |4|request|2021-09-30|
+|5|pickle|2021-10-05|
