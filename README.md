@@ -12,3 +12,4 @@ Solutions about [pythonchallenge.com](http://www.pythonchallenge.com/)
 |4|request|2021-09-30|
 |5|pickle|2021-10-05|
 |6|zip|2021-10-11|
+|7|image|2021-10-12|
