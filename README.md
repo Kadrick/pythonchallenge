@@ -15,3 +15,4 @@ Solutions about [pythonchallenge.com](http://www.pythonchallenge.com/)
 |7|image|2021-10-12|
 |8|bzip2|2021-10-13|
 |9|tkinter|2021-10-14|
+|10|sequence|2021-10-14|
